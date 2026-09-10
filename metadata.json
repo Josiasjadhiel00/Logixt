@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Gestión y Logística de Almacén",
+  "description": "Sistema empresarial de gestión y logística de almacén para control de inventario, existencias, ingresos y despachos en tiempo real.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
